@@ -4,6 +4,8 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
+
+/*Classe usuário*/
 namespace ApiUsuarios.Models
 {
     public class Usuario
